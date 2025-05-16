@@ -20,6 +20,9 @@ I'm a web developer passionate about building user-friendly, responsive websites
 <a href="https://github.com/syeembed" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
 </a>
+<a href="mailto:syeembed@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
 
 
 <!--
