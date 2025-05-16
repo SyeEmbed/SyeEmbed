@@ -1,9 +1,5 @@
 # Hi, I'm Thomas 👋
 
-<a href="https://www.linkedin.com/in/yourusername/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
-
 I'm a web developer passionate about building user-friendly, responsive websites and applications. I love turning ideas into code and learning new tools along the way. Currently diving deeper into React and Tailwind!!
 
 ## 🛠️ Languages & Tools
@@ -15,6 +11,11 @@ I'm a web developer passionate about building user-friendly, responsive websites
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
+
+<a href="https://www.linkedin.com/in/yourusername/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
 <!--
 **SyeEmbed/SyeEmbed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
