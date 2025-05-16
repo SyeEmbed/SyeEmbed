@@ -15,7 +15,7 @@ I'm a web developer passionate about building user-friendly, responsive websites
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/thomas-lacey-29b385330/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="40"/>
+  <img src="https://img.icons8.com/fluency/240/linkedin.png" alt="LinkedIn Logo" height="30"/>
 </a>
 <a href="https://github.com/syeembed" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
