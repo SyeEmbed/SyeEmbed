@@ -12,7 +12,7 @@ I'm a web developer passionate about building user-friendly, responsive websites
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
 </p>
 
-# Connect with me:
+### Connect with me:
 <a href="https://www.linkedin.com/in/thomas-lacey-29b385330/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
