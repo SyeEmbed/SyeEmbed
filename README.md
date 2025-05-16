@@ -1,5 +1,9 @@
 # Hi, I'm Thomas 👋
 
+<a href="https://www.linkedin.com/in/yourusername/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+
 I'm a web developer passionate about building user-friendly, responsive websites and applications. I love turning ideas into code and learning new tools along the way. Currently diving deeper into React and Tailwind!!
 
 ## 🛠️ Languages & Tools
