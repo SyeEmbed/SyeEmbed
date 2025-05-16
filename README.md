@@ -1,6 +1,6 @@
 # Hi, I'm Thomas 👋
 
-I'm a web developer passionate about building user-friendly, responsive websites and applications. I love turning ideas into code and learning new tools along the way. Currently diving deeper into React maybe even Tailwind!!
+I'm a web developer passionate about building user-friendly, responsive websites and applications. I love turning ideas into code and learning new tools along the way. Currently diving deeper into React and Tailwind!!
 
 ## 🛠️ Languages & Tools
 
